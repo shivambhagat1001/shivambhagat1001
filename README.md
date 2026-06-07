@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I am a final-year MCA student with hands-on experience in full-stack development, focused on building scalable and user-centric web applications.
+I am an MCA graduate with hands-on experience in full-stack development, focused on building scalable and user-centric web applications.
 I enjoy solving real-world problems through code, working with backend systems, APIs, and database-driven applications.
 
 - 🔭 Currently working on full-stack web applications  

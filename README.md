@@ -108,7 +108,7 @@ I enjoy solving real-world problems through code, working with backend systems, 
 ## 🌐 Connect With Me
 
 - 📧 Email: shivambhagat1001@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/shivam-bhagat  
+- 💼 LinkedIn: https://www.linkedin.com/in/shivam--bhagat
 - 💻 GitHub: https://github.com/shivambhagat1001  
 
 ---
